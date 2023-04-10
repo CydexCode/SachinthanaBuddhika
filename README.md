@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SachinthanaBuddhika
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning  BSC Computer Engineering(UN)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently BSC Computer Engineering(UN) student
+- 💞️ Subscribe me on Youtube. You can find out more tutorial  
+- 📫 Thank you
 
 
 <!---
